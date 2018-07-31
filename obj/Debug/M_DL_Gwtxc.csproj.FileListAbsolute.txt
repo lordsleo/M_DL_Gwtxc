@@ -1,0 +1,6 @@
+F:\Visual Studio2015\lordsleo.visualstudio.com\M_DL_Gwtxc\M_DL_Gwtxc\bin\M_DL_Gwtxc.dll.config
+F:\Visual Studio2015\lordsleo.visualstudio.com\M_DL_Gwtxc\M_DL_Gwtxc\bin\M_DL_Gwtxc.dll
+F:\Visual Studio2015\lordsleo.visualstudio.com\M_DL_Gwtxc\M_DL_Gwtxc\bin\M_DL_Gwtxc.pdb
+F:\Visual Studio2015\lordsleo.visualstudio.com\M_DL_Gwtxc\M_DL_Gwtxc\obj\Debug\M_DL_Gwtxc.csprojResolveAssemblyReference.cache
+F:\Visual Studio2015\lordsleo.visualstudio.com\M_DL_Gwtxc\M_DL_Gwtxc\obj\Debug\M_DL_Gwtxc.dll
+F:\Visual Studio2015\lordsleo.visualstudio.com\M_DL_Gwtxc\M_DL_Gwtxc\obj\Debug\M_DL_Gwtxc.pdb
